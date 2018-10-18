@@ -1,0 +1,82 @@
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\Shopdb.mdf
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\Shopdb_log.ldf
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\shop csharp.exe.config
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\shop csharp.exe
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\shop csharp.pdb
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\bin\Debug\fa\shop csharp.resources.dll
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.About.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Remove.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Restore.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Insert.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Properties.Resources.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Search.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Sort.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.fa.resources
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop csharp.csproj.GenerateResource.Cache
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\fa\shop csharp.resources.dll
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop csharp.exe
+C:\Users\Alex Jane\documents\visual studio 2013\Projects\shop csharp\shop csharp\obj\Debug\shop csharp.pdb
+H:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe.config
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.exe
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.pdb
+H:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb.mdf
+H:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb_log.ldf
+H:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe
+H:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.pdb
+H:\New folder\shop csharp\shop csharp\bin\Debug\fa\shop csharp.resources.dll
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.About.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Remove.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Restore.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Insert.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Properties.Resources.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Search.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Sort.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.fa.resources
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csproj.GenerateResource.Cache
+H:\New folder\shop csharp\shop csharp\obj\Debug\fa\shop csharp.resources.dll
+H:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csprojResolveAssemblyReference.cache
+F:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe.config
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.exe
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.pdb
+F:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb.mdf
+F:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb_log.ldf
+F:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe
+F:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.pdb
+F:\New folder\shop csharp\shop csharp\bin\Debug\fa\shop csharp.resources.dll
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csprojResolveAssemblyReference.cache
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.About.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Remove.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Restore.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Insert.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Properties.Resources.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Search.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Sort.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.fa.resources
+F:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csproj.GenerateResource.Cache
+F:\New folder\shop csharp\shop csharp\obj\Debug\fa\shop csharp.resources.dll
+I:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe.config
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.exe
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.pdb
+I:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb.mdf
+I:\New folder\shop csharp\shop csharp\bin\Debug\Shopdb_log.ldf
+I:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.exe
+I:\New folder\shop csharp\shop csharp\bin\Debug\shop csharp.pdb
+I:\New folder\shop csharp\shop csharp\bin\Debug\fa\shop csharp.resources.dll
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csprojResolveAssemblyReference.cache
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.About.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Remove.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Restore.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Insert.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Properties.Resources.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Search.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Sort.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop_csharp.Shop_Form.fa.resources
+I:\New folder\shop csharp\shop csharp\obj\Debug\shop csharp.csproj.GenerateResource.Cache
+I:\New folder\shop csharp\shop csharp\obj\Debug\fa\shop csharp.resources.dll
+F:\ALEX JANE\Project Mabani\shop csharp\shop csharp\bin\Debug\shop csharp.exe.config
+F:\ALEX JANE\Project Mabani\shop csharp\shop csharp\obj\Debug\shop csharp.exe
+F:\ALEX JANE\Project Mabani\shop csharp\shop csharp\obj\Debug\shop csharp.pdb

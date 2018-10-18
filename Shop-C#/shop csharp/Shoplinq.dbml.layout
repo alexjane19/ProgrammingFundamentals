@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Shoplinq">
+  <DataContextMoniker Name="/ShoplinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="628d0622-7ae9-4a9c-8c3a-37e0da68818a" absoluteBounds="0.5, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ShoplinqDataContext/ShopTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="346bc2b7-9488-443c-8441-c61b1967ac71" absoluteBounds="0.51500000000000012, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="585fb058-ff65-43b4-b6f2-47f60418e8ca" absoluteBounds="3.25, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ShoplinqDataContext/RecycleBin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="83cd10f4-7c16-4448-8723-7a7266dd94bf" absoluteBounds="3.2649999999999997, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
